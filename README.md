@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Sazib Khan
-
 ![Software Engineer || Full-stack developer ](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/38748230_2019982518315534_8810424439016521728_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeG-niksoIfvSVhS1EHBqiJNadipEU22vy9p2KkRTba_L5lrvO84VnsSofRPrDTv8cApbFQdlKaUZGwoounEDweX&_nc_ohc=RSzK6MbsdQIAX9rSOQC&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8Rr-N9J9ffRNxyxg2ixoo6Y_f8ooh7yLiU0HNuAh2mlw&oe=61F5ABEC)
-#### Software Engineer || Full-stack developer 
+### Hi There 👋, my name is Sazib Khan
 👑 I am Software Developer 
 🖊️ Love to write code
 🎤 Like to share my knowledge
