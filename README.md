@@ -19,15 +19,12 @@ Currently working at **BEXIMCO Communications Limited (AKASH DTH)** where I:
 ---
 
 ## 🛠️ Tech Stack & Skills  
-
 **Back-end:**  
-`Java` • `Spring Boot` • `REST API` • `Hibernate` • `MySQL`  
-
+`Java` • `Spring Boot` • `MICRO-SERVICE` • `REST API` • `Hibernate` • `MySQL`  
 **Front-end:**  
-`Angular` • `React` • `JavaScript` • `HTML5` • `CSS3`  
-
+`Angular` • `JavaScript` • `HTML5` • `CSS3`  
 **Tools & Others:**  
-`Git` • `GitHub` • `Postman` • `Jira` • `Docker`  
+`Git` • `GitHub` • `Postman` • `Jira` • `Docker`  • `intellij` 
 
 ---
 
@@ -49,14 +46,13 @@ When I’m not coding, I’m probably:
 
 ## 📬 Connect With Me  
 
-<p align="center">
-  <a href="https://github.com/sazibkhan"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
-  <a href="https://www.linkedin.com/in/sazibkhan/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-  <a href="https://www.facebook.com/sazibeng/"><img src="https://skillicons.dev/icons?i=facebook" height="50" /></a>
-  <a href="https://www.youtube.com/@sazibeng"><img src="https://skillicons.dev/icons?i=youtube" height="50" /></a>
-  <a href="https://leetcode.com/u/sazibkhan/"><img src="https://skillicons.dev/icons?i=leetcode" height="50" /></a>
-  <a href="https://sazibkhan.github.io/"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/sazibkhan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/sazibkhan/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/sazibeng/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@sazibeng)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/u/sazibkhan/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://sazibkhan.github.io/)
+
 
 ---
 
