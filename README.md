@@ -4,18 +4,22 @@
 🖊️ Love to write code
 🎤 Like to share my knowledge
 
-Profile views
+Hi there! 👋
+I'm Sazib Khan, a passionate Software Engineer from Dhaka, Bangladesh 🇧🇩 💻
 
-I’m a full stack developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Java Programming  technologies I enjoy working with include Spring Framework React JS, JavaScript Rest API .as well as Angular 
+I love building high-quality, scalable, and user-friendly applications. With 5+ years of professional experience, I specialize in Java, Spring Boot, REST APIs, and modern front-end frameworks. Currently, I’m working at BEXIMCO Communications Limited (AKASH DTH) where I’ve —
 
+Designed and developed enterprise-grade ERP & CMS solutions using Spring Boot, Hibernate, and MySQL.
 
+Integrated secure payment gateways and developed real-time inventory & reporting systems.
 
-Skills:    Java Enterprise Edition (Java EE), Spring Framework , Spring Security, Hibernate Query Language , JPA MYSQL , Basic (HTML, CSS, Bootstrap) Angular6+, Typescript, REST Services, Micro services, JSON , Dockers, Jenkins, Maven  , GitHub
+Collaborated with cross-functional teams to deliver projects on tight deadlines with zero compromise on quality.
 
-- 🔭 I’m currently working on Microtach company 
-- 🌱 I’m currently learning React js 
-- 💬 Ask me about Software Development
-- 
+Outside of work, you might find me exploring new tech stacks, learning AI, or working on my wedding media service hobby ❤️. I’m also a fan of traveling, photography, and discovering hidden coffee spots ☕.
+
+Basically, a tech enthusiast, part problem solver, part dreamer — with a dash of code and coffee in the mix 🚀.
+
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/sazibkhan)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/sazibkhan/)
