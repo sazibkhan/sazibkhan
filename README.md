@@ -15,27 +15,14 @@ Skills:    Java Enterprise Edition (Java EE), Spring Framework , Spring Security
 - 🔭 I’m currently working on Microtach company 
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Software Development
+- 
 
-<p align="center">
-  <a href="https://github.com/sazibkhan">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sazibkhan/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/sazibeng/">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook"/>
-  </a>
-  <a href="https://www.youtube.com/@sazibeng">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50" alt="YouTube"/>
-  </a>
-  <a href="https://leetcode.com/u/sazibkhan/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
-  </a>
-  <a href="https://sazibkhan.github.io/">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="Website"/>
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/sazibkhan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/sazibkhan/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/sazibeng/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@sazibeng)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/u/sazibkhan/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://sazibkhan.github.io/)
 
 
 
